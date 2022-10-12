@@ -1,0 +1,22 @@
+package exeption;
+
+public class Shopping {
+	
+	public void AddToCart()
+	{
+		try {
+			String[] cart=new String[5];
+			cart[5]="Mobile";
+		}catch(Exception e) {}
+		
+		
+		}
+public void makePayment() throws Exception
+{ 
+	int x=10;
+	int y=0;
+	int z=x/y;
+}
+		
+
+}

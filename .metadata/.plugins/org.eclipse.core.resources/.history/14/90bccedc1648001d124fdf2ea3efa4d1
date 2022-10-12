@@ -1,0 +1,11 @@
+package userdefinedException;
+
+public class ElectionDay {
+
+	public static void main(String[] args) {
+
+		
+		
+	}
+
+}

@@ -1,0 +1,27 @@
+package calculator;
+
+public class Calculator {
+	
+	public void add() {
+		int x
+		int y
+		add=(int x + int y){
+			System.out.println(add);
+		}
+	}
+	public void minus() {
+		( int x - int y )
+		
+		
+	}
+	
+	public void div() {
+		(int x / int y)
+	}
+	public void multi() {
+		(int x * int y )
+	}
+		
+	
+
+}

@@ -1,0 +1,14 @@
+package hashSetExample;
+
+import java.util.List;
+
+public class TestArrayList {
+
+	public static void main(String[] args) {
+
+		List<String> list=new Arraylist(4);
+		list.add("Upasana");
+		
+	}
+
+}

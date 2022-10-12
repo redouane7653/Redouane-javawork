@@ -1,0 +1,20 @@
+package calculator;
+
+import java.util.Scanner;
+
+public class calculator_caller {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Calculator calculator=new Calculator();
+		
+Scanner scn= new Scanner(System.in);
+System.out.println("Enter first number");
+int x = scn.nextInt();
+
+
+System.out.println("Enter Second number");
+int y = scn.nextInt();
+	}
+
+}
