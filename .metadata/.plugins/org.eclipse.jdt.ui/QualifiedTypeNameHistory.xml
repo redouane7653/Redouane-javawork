@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="customer.customermessage"/>
-    <fullyQualifiedTypeName name="payment.paymentclass"/>
-    <fullyQualifiedTypeName name="product.productclass"/>
-    <fullyQualifiedTypeName name="customer.customer"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
-    <fullyQualifiedTypeName name="arraylistpack.Arraylist"/>
     <fullyQualifiedTypeName name="inheritance_Execise_Shapes.Shape"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="org.junit.Assert"/>
@@ -45,11 +39,25 @@
     <fullyQualifiedTypeName name="java.nio.file.Path"/>
     <fullyQualifiedTypeName name="java.nio.file.Paths"/>
     <fullyQualifiedTypeName name="java.time.LocalTime"/>
-    <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
     <fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
     <fullyQualifiedTypeName name="org.springframework.context.annotation.Scope"/>
     <fullyQualifiedTypeName name="com.example.mybeans.Person"/>
     <fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
     <fullyQualifiedTypeName name="javax.validation.constraints.Max"/>
     <fullyQualifiedTypeName name="com.example.mybeans.Book"/>
+    <fullyQualifiedTypeName name="com.example.interfaces.Car"/>
+    <fullyQualifiedTypeName name="com.example.cars.Audi"/>
+    <fullyQualifiedTypeName name="com.example.cars.BMW"/>
+    <fullyQualifiedTypeName name="com.example.cars.Engine"/>
+    <fullyQualifiedTypeName name="com.example.interfaces.Engine"/>
+    <fullyQualifiedTypeName name="com.example.interfaces.HDD"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Qualifier"/>
+    <fullyQualifiedTypeName name="org.springframework.boot.autoconfigure.mongo.embedded.EmbeddedMongoProperties.Storage"/>
+    <fullyQualifiedTypeName name="com.example.interfaces.Storage"/>
+    <fullyQualifiedTypeName name="org.springframework.boot.autoconfigure.SpringBootApplication"/>
+    <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
+    <fullyQualifiedTypeName name="org.springframework.boot.SpringApplication"/>
+    <fullyQualifiedTypeName name="com.example.interfaces.Laptop"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
 </qualifiedTypeNameHistroy>
